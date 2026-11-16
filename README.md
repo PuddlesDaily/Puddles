@@ -10,6 +10,7 @@
 [![Website](https://img.shields.io/badge/website-puddlesdaily.com-ffd23f?style=for-the-badge&labelColor=241b14)](https://puddlesdaily.com) [![X](https://img.shields.io/badge/X-@PuddlesDaily-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=241b14&color=241b14)](https://x.com/PuddlesDaily) [![Built with Pollen Robotics](https://img.shields.io/badge/built%20with-Pollen%20Robotics-ff8a1f?style=for-the-badge&labelColor=241b14)](https://pollen-robotics.com/microduck/) [![Open Source](https://img.shields.io/badge/open%20source-Apache%202.0-62b13e?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=241b14)](https://github.com/pollen-robotics/microduck) [![Hugging Face](art/badge-huggingface.svg)](https://huggingface.co/spaces/pollen-robotics/microduck-simulator)
 
 **Dev address:** `3MQKtbfNqCXKBq8UgXWEJnpEoNFX4NeNF5RRhq9sifsD`
+CA: 8sLNtJFtVksJSCQ2nMtFNrUiKeV42K4Q8vuCL95rpump
 
 </div>
 
